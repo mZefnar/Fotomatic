@@ -1,3 +1,0 @@
-# Fotomatic
-
-codecademy troubleshooting project
